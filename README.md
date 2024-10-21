@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Gustavo, tenho 20 anos e sou de Curitiba/PR. Desde criança, sempre fui apaixonado por tecnologia e videogames. Graças a um incentivo precoce, mergulhei no mundo da programação e continuei a me especializar ao longo dos anos. Hoje, tenho o privilégio de transformar essa paixão em realidade, trabalhando com tecnologia e programação. 🚀🎮💻</p>
+<p align="left">Meu nome é Gustavo, tenho 20 anos e nasci em Curitiba/PR. Desde criança, sempre fui apaixonado por tecnologia e videogames. Graças a um incentivo precoce, mergulhei no mundo da programação e continuei a me especializar ao longo dos anos. Hoje, tenho o privilégio de transformar essa paixão em realidade, trabalhando com tecnologia e programação. 🚀🎮💻</p>
 
 ###
 
