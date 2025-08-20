@@ -3,14 +3,9 @@
 ###
 
 <p align="left">Olá! Meu nome é Gustavo, tenho 21 anos e sou apaixonado por tecnologia desde a infância. Incentivado desde cedo, mergulhei no mundo da programação e venho me especializando continuamente. Hoje, tenho a oportunidade de transformar essa paixão em carreira, atuando no desenvolvimento de software e soluções tecnológicas.</p>
-
-###
-
-<h2 align="left">🚀Expecialidades</h2>
-
-###
-
 <p align="left">Atualmente atuo como Desenvolvedor Backend e RPA, movido pela paixão em explorar o potencial da automação e do desenvolvimento de software para otimizar processos, gerar eficiência e tornar o dia a dia mais simples por meio da tecnologia.</p>
+
+###
 
 ###
 
