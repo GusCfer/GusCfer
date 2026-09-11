@@ -1,11 +1,10 @@
 ```
  ██████   █████  ██   ██     gustavo@carvalho
 ██    ██ ██   ██ ██  ██      ───────────────────────────────────────────────
-██    ██ ███████ █████       OS.............. Desenvolvedor Fullstack
+██    ██ ███████ █████       OS.............. Desenvolvedor Fullstack Sicredi 
 ██    ██ ██   ██ ██  ██      Uptime.......... 22 anos
  ██████  ██   ██ ██   ██     Kernel.......... apaixonado por tecnologia
                                               desde a infância
-                             Shell........... café + teclado
 
                              Languages....... Python
                                               Java
