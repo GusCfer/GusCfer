@@ -8,11 +8,10 @@
                                                desde a infância
                            Graduation ········ Engenharia de Software 6/8
 
-                           Languages ········· › Python
+                           Technologies ······ › Python
                                                › Java
-                                               › JavaScript
-                                               › HTML
-                                               › CSS
+                                               › Springboot
+                                               > FastAPI
 
                            LinkedIn ·········· /in/gustavo-carvalho-3aa513211
                            Instagram ········· @guscarfer
