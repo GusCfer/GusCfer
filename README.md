@@ -4,22 +4,37 @@
 
 </div>
 
-## Sobre
+<p align="left">My name is Gustavo and I'm 22 years old</p>
 
-Desenvolvedor Fullstack no **Sicredi** e estudante de **Engenharia de Software** (6º semestre). Apaixonado por tecnologia desde a infância, hoje construo aplicações web e APIs com foco em código limpo e boas práticas.
+###
 
-## Tecnologias
+<h2 align="left">About me</h2>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<p align="left">✨ Estudante de Engenharia de Software<br>📚 Desenvolvedor Fullstack — Sicredi Norte Sul</p>
 
-## Contato
+###
 
-<a href="https://www.linkedin.com/in/gustavo-carvalho-3aa513211"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/guscarfer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://linktr.ee/guscfer"><img src="https://img.shields.io/badge/Linktree-43E660?style=flat-square&logo=linktree&logoColor=black"/></a>
+<h2 align="left">Technologies</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,spring,fastapi,postgres,mongodb,docker,aws&theme=dark" height="36" alt="Java, Python, Spring, FastAPI, PostgreSQL, MongoDB, Docker, AWS"/>
+</p>
+
+###
+
+<h3 align="left">Contato:</h3>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gustavo-carvalho-3aa513211" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  </a>
+  <a href="https://instagram.com/guscarfer" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
+  </a>
+  <a href="https://linktr.ee/guscfer" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"/>
+  </a>
+  <a href="mailto:gustavocarvalhofernandes@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
+  </a>
+</div>
