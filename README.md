@@ -1,40 +1,30 @@
 <div align="center">
 
-<img src="./header.svg" alt="Gustavo Carvalho — Desenvolvedor Fullstack" width="100%"/>
+<img src="./header.svg" alt="Floresta minimalista" width="100%"/>
 
 </div>
 
-<p align="left">My name is Gustavo and I'm 22 years old</p>
+## <img src="https://api.iconify.design/lucide/hand.svg?color=%234493f8&height=20" height="20" align="absmiddle" alt=""/> Olá, eu sou o Gustavo
 
-###
+Tenho 22 anos e sou apaixonado por tecnologia desde a infância. Hoje transformo esse interesse em trabalho: desenvolvo aplicações web e APIs, sempre buscando aprender mais e escrever código limpo e fácil de manter.
 
-<h2 align="left">About me</h2>
+## <img src="https://api.iconify.design/lucide/user.svg?color=%234493f8&height=20" height="20" align="absmiddle" alt=""/> Sobre mim
 
-<p align="left">✨ Estudante de Engenharia de Software<br>📚 Desenvolvedor Fullstack — Sicredi Norte Sul</p>
+- <img src="https://api.iconify.design/lucide/briefcase.svg?color=%234493f8&height=18" height="18" align="absmiddle" alt=""/> Desenvolvedor Fullstack no **Sicredi Norte Sul**
+- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%234493f8&height=18" height="18" align="absmiddle" alt=""/> Estudante de **Engenharia de Software** (6º de 8 semestres)
+- <img src="https://api.iconify.design/lucide/server.svg?color=%234493f8&height=18" height="18" align="absmiddle" alt=""/> Backend com **Java e Spring Boot**
+- <img src="https://api.iconify.design/lucide/terminal.svg?color=%234493f8&height=18" height="18" align="absmiddle" alt=""/> Também com **Python e FastAPI**
+- <img src="https://api.iconify.design/lucide/sprout.svg?color=%234493f8&height=18" height="18" align="absmiddle" alt=""/> Sempre estudando e evoluindo como desenvolvedor
 
-###
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%234493f8&height=20" height="20" align="absmiddle" alt=""/> Technologies
 
-<h2 align="left">Technologies</h2>
+<img src="https://skillicons.dev/icons?i=java,python,spring,fastapi,postgres,mongodb,docker,aws&theme=dark&perline=8" height="28" alt="Java, Python, Spring, FastAPI, PostgreSQL, MongoDB, Docker, AWS"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,fastapi,postgres,mongodb,docker,aws&theme=dark" height="36" alt="Java, Python, Spring, FastAPI, PostgreSQL, MongoDB, Docker, AWS"/>
-</p>
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%234493f8&height=20" height="20" align="absmiddle" alt=""/> Contact
 
-###
+Feel free to reach out or follow my work:
 
-<h3 align="left">Contato:</h3>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gustavo-carvalho-3aa513211" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  </a>
-  <a href="https://instagram.com/guscarfer" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
-  </a>
-  <a href="https://linktr.ee/guscfer" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"/>
-  </a>
-  <a href="mailto:gustavocarvalhofernandes@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/gustavo-carvalho-3aa513211"><img src="./assets/linkedin.svg" width="28" height="28" alt="LinkedIn"/></a>&nbsp;
+<a href="https://instagram.com/guscarfer"><img src="./assets/instagram.svg" width="28" height="28" alt="Instagram"/></a>&nbsp;
+<a href="https://linktr.ee/guscfer"><img src="./assets/linktree.svg" width="28" height="28" alt="Linktree"/></a>&nbsp;
+<a href="mailto:gustavocarvalhofernandes@gmail.com"><img src="./assets/gmail.svg" width="28" height="28" alt="Gmail"/></a>
