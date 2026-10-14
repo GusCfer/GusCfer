@@ -1,34 +1,32 @@
-<div align="center">
+<div align="left">
 
-<!-- <img src="./header2.svg" alt="Floresta minimalista" width="100%"/>  -->
+# <img src="https://api.iconify.design/lucide/tree-deciduous.svg?color=%23a0522d&height=32" height="32" align="absmiddle" alt="Oak"/> Oak
+
+**Desenvolvedor Fullstack** &bull; **22 anos** &bull; **Engenharia de Software (6º sem.)**
+
+[![Atuação](https://img.shields.io/badge/Atuação-Sicredi_Norte_Sul-00A859?style=for-the-badge&logo=spin&logoColor=white)](#)
 
 </div>
 
-## <img src="https://api.iconify.design/lucide/hand.svg?color=%234493f8&height=20" height="20" align="absmiddle" alt=""/> Olá, eu sou o Gustavo
+---
 
-Tenho 22 anos e sou apaixonado por tecnologia desde a infância. Hoje transformo esse interesse em trabalho: desenvolvo aplicações web e APIs, sempre buscando aprender mais e escrever código limpo e fácil de manter.
+### 💻 Stack Principal
 
-## <img src="https://api.iconify.design/lucide/user.svg?color=%234493f8&height=20" height="20" align="absmiddle" alt=""/> Sobre mim
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#)
 
-<img src="https://api.iconify.design/lucide/briefcase.svg?color=%234493f8&height=18" height="18" align="absmiddle" alt=""/> Desenvolvedor Fullstack no <img src="https://api.iconify.design/lucide/loader-pinwheel.svg?color=%2300a859&height=18" height="18" align="absmiddle" alt="Sicredi"/> **Sicredi Norte Sul**
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
 
-<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%234493f8&height=18" height="18" align="absmiddle" alt=""/> Estudante de **Engenharia de Software** (6º de 8 semestres)
+---
 
-<img src="https://api.iconify.design/lucide/server.svg?color=%234493f8&height=18" height="18" align="absmiddle" alt=""/> Backend com **Java e Spring Boot**
+### 📬 Vamos conversar?
 
-<img src="https://api.iconify.design/lucide/terminal.svg?color=%234493f8&height=18" height="18" align="absmiddle" alt=""/> Também com **Python e FastAPI**
-
-<img src="https://api.iconify.design/lucide/sprout.svg?color=%234493f8&height=18" height="18" align="absmiddle" alt=""/> Sempre estudando e evoluindo como desenvolvedor
-
-## <img src="https://api.iconify.design/lucide/wrench.svg?color=%234493f8&height=20" height="20" align="absmiddle" alt=""/> Technologies
-
-<img src="https://skillicons.dev/icons?i=java,python,spring,fastapi,postgres,mongodb,docker,aws&theme=dark&perline=8" height="28" alt="Java, Python, Spring, FastAPI, PostgreSQL, MongoDB, Docker, AWS"/>
-
-## <img src="https://api.iconify.design/lucide/mail.svg?color=%234493f8&height=20" height="20" align="absmiddle" alt=""/> Contact
-
-Feel free to reach out or follow my work:
-
-<a href="https://www.linkedin.com/in/gustavo-carvalho-3aa513211" target="_blank"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%234493f8&height=24" height="24" align="absmiddle" alt="LinkedIn"/></a> &nbsp;
-<a href="https://instagram.com/guscarfer" target="_blank"><img src="https://api.iconify.design/simple-icons/instagram.svg?color=%234493f8&height=24" height="24" align="absmiddle" alt="Instagram"/></a> &nbsp;
-<a href="https://linktr.ee/guscfer" target="_blank"><img src="https://api.iconify.design/simple-icons/linktree.svg?color=%234493f8&height=24" height="24" align="absmiddle" alt="Linktree"/></a> &nbsp;
-<a href="mailto:gustavocarvalhofernandes@gmail.com"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%234493f8&height=24" height="24" align="absmiddle" alt="Gmail"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-carvalho-3aa513211)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guscarfer)
+[![Linktree](https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/guscfer)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavocarvalhofernandes@gmail.com)
