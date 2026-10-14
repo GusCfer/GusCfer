@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" alt="Floresta minimalista" width="100%"/> 
+<img src="./header2.svg" alt="Floresta minimalista" width="100%"/> 
 
 </div>
 
