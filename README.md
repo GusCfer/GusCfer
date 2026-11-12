@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="./clocktown.svg" width="100%" alt="Banner em pixel art da torre do relógio de Clock Town com o nome Gustavo Carvalho"/>
+<img src="./clocktown-pixel.svg" width="100%" alt="Banner animado em pixel art da torre do relógio com fadas, com o nome Gustavo Carvalho"/>
 
 # <img src="https://api.iconify.design/fluent-emoji/deciduous-tree.svg?height=40" height="40" align="absmiddle" alt="Oak"/> Oak
 
