@@ -2,9 +2,12 @@
 
 # <img src="https://api.iconify.design/lucide/tree-deciduous.svg?color=%23a0522d&height=32" height="32" align="absmiddle" alt="Oak"/> Oak
 
-**Desenvolvedor Fullstack** &bull; **22 anos** &bull; **Engenharia de Software (6º sem.)**
+**Auxiliar de Inovação** &bull; **Desenvolvedor Fullstack** &bull; **Engenharia de Software (6º sem.)**
 
 [![Atuação](https://img.shields.io/badge/Atuação-Sicredi_Norte_Sul-00A859?style=for-the-badge&logo=spin&logoColor=white)](#)
+
+Oi! Sou o **Gustavo**, tenho 22 anos e trabalho com inovação no **Sicredi Norte Sul**, transformando ideias em soluções que funcionam.
+Nas horas vagas, crio projetos que misturam código com games e música. 🎮🎸
 
 </div>
 
@@ -21,6 +24,14 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
+
+---
+
+### 🚀 Projetos
+
+- 🎸 **[Cube Baby Editor](https://github.com/GusCfer/guitar-cubebaby-editor)**: editor de presets para o pedal de guitarra M-VAVE CUBE Baby (Windows e Linux)
+- 🌙 **[Diário de Termina](https://github.com/GusCfer/diario-de-termina)**: PWA para acompanhar os 100% em *Majora's Mask* ([acessar](https://diario-de-termina.web.app))
+- 🧚 **[Navi para VS Code](https://github.com/GusCfer/navi-fairy-vscode)**: uma fadinha em pixel art que vive no Explorer e reage ao seu código
 
 ---
 
