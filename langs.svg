@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="168" viewBox="0 0 360 168">
+<style>
+.t{font:600 15px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#1f2328}
+.l{font:400 13px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#1f2328}
+.p{font:400 12px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#59636e}
+.bg{fill:#ffffff;stroke:#d1d9e0}
+@media (prefers-color-scheme: dark){
+.t,.l{fill:#e6edf3}.p{fill:#9198a1}.bg{fill:#0d1117;stroke:#3d444d}
+}
+</style>
+<rect class="bg" x=".5" y=".5" width="359" height="167" rx="8"/>
+<text x="22" y="34" class="t">Linguagens mais usadas</text>
+<clipPath id="c"><rect x="22" y="56" width="316" height="10" rx="5"/></clipPath>
+<g clip-path="url(#c)"><rect x="22.00" y="56" width="129.30" height="10" fill="#F1E05A"/><rect x="151.30" y="56" width="97.27" height="10" fill="#E34C26"/><rect x="248.57" y="56" width="62.29" height="10" fill="#3572A5"/><rect x="310.86" y="56" width="24.22" height="10" fill="#663399"/><rect x="335.08" y="56" width="2.92" height="10" fill="#8b949e"/></g>
+<circle cx="27.0" cy="88" r="5" fill="#F1E05A"/><text x="38.0" y="92" class="l">JavaScript</text><text x="166.0" y="92" class="p" text-anchor="end">40.9%</text><circle cx="185.0" cy="88" r="5" fill="#E34C26"/><text x="196.0" y="92" class="l">HTML</text><text x="324.0" y="92" class="p" text-anchor="end">30.8%</text><circle cx="27.0" cy="114" r="5" fill="#3572A5"/><text x="38.0" y="118" class="l">Python</text><text x="166.0" y="118" class="p" text-anchor="end">19.7%</text><circle cx="185.0" cy="114" r="5" fill="#663399"/><text x="196.0" y="118" class="l">CSS</text><text x="324.0" y="118" class="p" text-anchor="end">7.7%</text><circle cx="27.0" cy="140" r="5" fill="#8b949e"/><text x="38.0" y="144" class="l">PLpgSQL</text><text x="166.0" y="144" class="p" text-anchor="end">0.9%</text>
+</svg>
