@@ -43,7 +43,7 @@
 
 ### Stack
 
-<img src="./stack.svg" width="100%" alt="Stack: Java, Spring Boot, Python, FastAPI, JavaScript, TypeScript, HTML5, CSS3, PostgreSQL, MongoDB, Firebase, Docker, AWS, Linux e Git"/>
+<img src="./stack-v2.svg" width="100%" alt="Stack: Java, Spring Boot, Python, FastAPI, JavaScript, TypeScript, React, PostgreSQL, MongoDB, Firebase, Docker, AWS, Linux e Git"/>
 
 ---
 
