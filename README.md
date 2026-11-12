@@ -1,19 +1,18 @@
 <div align="left">
 
-# <img src="https://api.iconify.design/lucide/tree-deciduous.svg?color=%23a0522d&height=32" height="32" align="absmiddle" alt="Oak"/> Oak
+# <img src="https://api.iconify.design/fluent-emoji/deciduous-tree.svg?height=40" height="40" align="absmiddle" alt="Oak"/> Oak
 
-**Auxiliar de Inovação** &bull; **Desenvolvedor Fullstack** &bull; **Engenharia de Software (6º sem.)**
+**Desenvolvedor Fullstack** &bull; **Engenharia de Software (6º sem.)**
 
-[![Atuação](https://img.shields.io/badge/Atuação-Sicredi_Norte_Sul-00A859?style=for-the-badge&logo=spin&logoColor=white)](#)
+[![Sicredi Norte Sul](https://img.shields.io/badge/Sicredi_Norte_Sul-Auxiliar_de_Inovação-00A859?style=for-the-badge&logo=spin&logoColor=white)](#)
 
 Oi! Sou o **Gustavo**, tenho 22 anos e trabalho com inovação no **Sicredi Norte Sul**, transformando ideias em soluções que funcionam.
-Nas horas vagas, crio projetos que misturam código com games e música. 🎮🎸
 
 </div>
 
 ---
 
-### 💻 Stack Principal
+### Stack Principal
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
@@ -27,15 +26,7 @@ Nas horas vagas, crio projetos que misturam código com games e música. 🎮�
 
 ---
 
-### 🚀 Projetos
-
-- 🎸 **[Cube Baby Editor](https://github.com/GusCfer/guitar-cubebaby-editor)**: editor de presets para o pedal de guitarra M-VAVE CUBE Baby (Windows e Linux)
-- 🌙 **[Diário de Termina](https://github.com/GusCfer/diario-de-termina)**: PWA para acompanhar os 100% em *Majora's Mask* ([acessar](https://diario-de-termina.web.app))
-- 🧚 **[Navi para VS Code](https://github.com/GusCfer/navi-fairy-vscode)**: uma fadinha em pixel art que vive no Explorer e reage ao seu código
-
----
-
-### 📬 Vamos conversar?
+### Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-carvalho-3aa513211)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guscarfer)
