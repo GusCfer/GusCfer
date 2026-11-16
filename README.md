@@ -4,7 +4,7 @@
 
 **Assistente de Inovação no Sicredi Norte Sul** &nbsp;|&nbsp; **Desenvolvedor Fullstack**
 
-[![Sicredi Norte Sul](https://img.shields.io/badge/Sicredi_Norte_Sul-Auxiliar_de_Inovação-00A859?style=for-the-badge)](#)
+[![Sicredi Norte Sul](https://img.shields.io/badge/Sicredi_Norte_Sul-Assistente_de_Inovação-00A859?style=for-the-badge)](#)
 [![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-6º_semestre-3D3D6B?style=for-the-badge)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-carvalho-3aa513211)
 
