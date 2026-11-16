@@ -2,7 +2,7 @@
 
 # Gustavo Carvalho
 
-**Auxiliar de Inovação no Sicredi Norte Sul** &nbsp;|&nbsp; **Desenvolvedor Fullstack**
+**Assistente de Inovação no Sicredi Norte Sul** &nbsp;|&nbsp; **Desenvolvedor Fullstack**
 
 [![Sicredi Norte Sul](https://img.shields.io/badge/Sicredi_Norte_Sul-Auxiliar_de_Inovação-00A859?style=for-the-badge)](#)
 [![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-6º_semestre-3D3D6B?style=for-the-badge)](#)
@@ -22,7 +22,7 @@
   <tr>
     <td valign="top">
       <ul>
-        <li>Auxiliar de Inovação no <b>Sicredi Norte Sul</b></li>
+        <li>Assistente de Inovação no <b>Sicredi Norte Sul</b></li>
         <li>Transformo ideias em protótipos e soluções que funcionam</li>
         <li>Desenvolvimento fullstack, com foco em back-end <b>Java</b> e <b>Python</b></li>
         <li>Cursando <b>Engenharia de Software</b> (6º de 8 semestres)</li>
